@@ -29,7 +29,7 @@
   "workspaces": [
     "docs",
     "packages/*",
-    "domains/*/*"
+    "apps/*"
   ],
   "config": {
     "commitizen": {
